@@ -6,7 +6,9 @@ Created on Sun Sep 19 17:59:07 2021
 @author: luis
 """
 
+
 from os import system
+
 class Player:
     
     def __init__(self, name):
@@ -28,7 +30,5 @@ def create_players():
     return players
 
 
-players = create_players()
-for p in players:
-    print(players[p])
+
     

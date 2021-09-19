@@ -35,7 +35,7 @@ def create_cards():
     return cards
 
 
-cards = create_cards()
+
 
             
     
